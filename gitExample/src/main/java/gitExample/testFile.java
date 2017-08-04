@@ -7,10 +7,12 @@ public class testFile {
 		String myName = "Levi Frias";
 		String myEmail = "lf@oocl.com";
 		String myAddress = "PH";
+		String myGender = "M";
 		
 		System.out.println(myName);
 		System.out.println(myEmail);
 		System.out.println(myAddress);
+		System.out.println(myGender);
 	}
 
 }
