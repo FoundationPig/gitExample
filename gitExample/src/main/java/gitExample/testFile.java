@@ -36,6 +36,10 @@ public class testFile {
 		
 	}
 	
+	public void getFour() {
+		
+	}
+	
 
 
 }
