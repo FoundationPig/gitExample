@@ -15,7 +15,7 @@ public class testFile {
 		int sex = 1;
 		int hair = 1;
 		//branchOne
-		System.out.println(myName);
+//		System.out.println(myName);
 		System.out.println(myEmail);
 		System.out.println(myAddress);
 		System.out.println(myGender);
@@ -33,6 +33,7 @@ public class testFile {
 	}
 	public void getTwo() {
 		System.out.println("Add Change");
+		System.out.println("Add Change1");
 		
 	}
 	
