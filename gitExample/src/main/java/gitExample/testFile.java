@@ -9,6 +9,8 @@ public class testFile {
 		String myAddress = "PH";
 		String myGender = "M";
 		String zipCode = "165";
+		//asdasdas
+		//asdasdasdasdasd
 		int age = 50;
 		int sex = 1;
 		int hair = 1;
