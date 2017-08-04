@@ -31,5 +31,11 @@ public class testFile {
 		System.out.println("Add Change");
 		
 	}
+	public void getTwo() {
+		System.out.println("Add Change");
+		
+	}
+	
+
 
 }
