@@ -14,6 +14,7 @@ public class testFile {
 		int age = 50;
 		int sex = 1;
 		int hair = 1;
+		//branchOne
 		System.out.println(myName);
 		System.out.println(myEmail);
 		System.out.println(myAddress);
@@ -25,6 +26,10 @@ public class testFile {
 		for(int x = 1;x<1;x++) {
 			
 		}
+	}
+	public void getOne() {
+		System.out.println("Add Change");
+		
 	}
 
 }
