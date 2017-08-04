@@ -11,6 +11,7 @@ public class testFile {
 		String zipCode = "165";
 		int age = 50;
 		int sex = 1;
+		int hair = 1;
 		System.out.println(myName);
 		System.out.println(myEmail);
 		System.out.println(myAddress);
@@ -18,6 +19,7 @@ public class testFile {
 		System.out.println(zipCode);
 		System.out.println(age);
 		System.out.println(sex);
+		System.out.println(hair);
 		for(int x = 1;x<1;x++) {
 			
 		}
