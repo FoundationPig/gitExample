@@ -9,14 +9,14 @@ public class testFile {
 		String myAddress = "PH";
 		String myGender = "M";
 		String zipCode = "165";
-		
+		int age = 50;
 		
 		System.out.println(myName);
 		System.out.println(myEmail);
 		System.out.println(myAddress);
 		System.out.println(myGender);
 		System.out.println(zipCode);
-		
+		System.out.println(age);
 		for(int x = 1;x<1;x++) {
 			
 		}
