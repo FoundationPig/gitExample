@@ -29,6 +29,7 @@ public class testFile {
 	}
 	public void getOne() {
 		System.out.println("Add Change");
+		System.out.println("Add Change2");
 		
 	}
 	public void getTwo() {
